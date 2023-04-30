@@ -1,0 +1,4 @@
+awscli
+requests
+paramiko
+boto3
